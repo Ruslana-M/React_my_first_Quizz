@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "question": "If you are not sure about the variable type you want use, considerusing let variable",
+    "options": ["true", "false", "not sure"],
+    "answer": "false"
+  },
+  {
+    "id": 2,
+    "question": "another questions",
+    "options": ["true", "false", "not sure"],
+    "answer": "true"
+  }
+]
